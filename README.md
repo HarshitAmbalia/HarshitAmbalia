@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’ve worked on [Canteen Management System - ASP.NET Framework](https://github.com/HarshitAmbalia/CMS_AspNetFramework)
 
-<img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="left" alt="Coder" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 - 🌱 I’m currently learning **React + Django**
 

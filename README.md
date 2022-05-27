@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1zu0rit8UJ0nYOSxbbplMVhlDq8U3bCoc/view?usp=sharing)
 
+- ⚡ Visit [myPortfolio](https://harshitambalia.github.io/) for more info
+
 - ⚡ Fun fact **I am good Photographer XD**
 
 <h3 align="left">Connect with me:</h3>
